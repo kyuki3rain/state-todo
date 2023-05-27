@@ -1,0 +1,5 @@
+query GetTodoContent {
+  todo {
+    content
+  }
+}
